@@ -1,8 +1,8 @@
 Package.describe({
 	summary: "Add Polymer Base to meteor Project",
-	version: "1.0.3",
-	git: "https://github.com/ecwyne/meteor-polymer.git",
-	name: 'ecwyne:polymer'
+	version: "1.0.4",
+	git: "https://github.com/mirikle/meteor-polymer.git",
+	name: 'polymer'
 });
 
 Npm.depends({
